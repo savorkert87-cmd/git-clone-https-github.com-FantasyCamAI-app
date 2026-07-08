@@ -1,0 +1,21 @@
+{
+  "name": "fantasycamai-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "react-native": "0.72.0",
+    "expo": "^49.0.0",
+    "axios": "^1.5.0",
+    "react-navigation": "^6.1.7"
+  },
+  "devDependencies": {
+    "@types/react": "^18",
+    "jest": "^29"
+  }
+}
